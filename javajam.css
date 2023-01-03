@@ -135,24 +135,24 @@ footer {
 }
 
 #heroroad {
-    background-image: url(../Lab7/img/heroroad.jpg);
+    background-image: url(img/heroroad.jpg);
     background-size: 100%;
     height: 250px;
 }
 
 #heromugs {
-    background-image: url(../Lab7/img/heromugs.jpg);
+    background-image: url(img/heromugs.jpg);
     height: 250px;
 }
 
 #heroguitar {
-    background-image: url(../Lab7/img/heroguitar.jpg);
+    background-image: url(img/heroguitar.jpg);
     background-size: 100%;
     height: 250px;
 }
 
 #herojobs{
-    background-image: url("../Lab7/img/herojobs.jpg");
+    background-image: url(img/herojobs.jpg);
     height: 250px;
     background-size: 100% 100%;
 }
